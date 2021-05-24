@@ -4,7 +4,7 @@ One uppercase letter<br/>
 One lowercase letter<br/>
 One digit<br/>
 One special character<br/>
-Three python libraries were used<br/>
+Three python libraries were used
 <ol>
 <li>Tkinter for the GUI</li>
 <li>Random to make the password random</li>
