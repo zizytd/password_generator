@@ -5,6 +5,9 @@ One lowercase letter<br/>
 One digit<br/>
 One special character<br/>
 Three python libraries were used<br/>
-1. Tkinter for the GUI<br/>
-2. Random to make the password random<br/>
-3. String for string manipulation<br/>Attached is the files of  the images of the application.
+<ol>
+<li>Tkinter for the GUI</li>
+<li>Random to make the password random</li>
+<li>String for string manipulation</li>
+</ol>
+Attached is the files of  the images of the application.
