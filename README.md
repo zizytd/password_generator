@@ -10,4 +10,4 @@ Three python libraries were used
 <li>Random to make the password random</li>
 <li>String for string manipulation</li>
 </ol>
-Attached is the files of  the images of the application.
+Attached are the files of  the images of the application.
