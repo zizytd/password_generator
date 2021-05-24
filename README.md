@@ -9,5 +9,5 @@ Three python libraries were used
 <li>Tkinter for the GUI</li>
 <li>Random to make the password random</li>
 <li>String for string manipulation</li>
-</ol>
+</ol><br/>
 Attached are the files of  the images of the application.
