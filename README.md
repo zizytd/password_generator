@@ -10,4 +10,5 @@ Three python libraries were used
 <li>Random to make the password random</li>
 <li>String for string manipulation</li>
 </ol><br/>
-Attached are the files of  the images of the application.
+Attached are the files of  the images of the application.<br/>
+Clicking on <strong>Generate</strong> generates the password<br/> clicking on <strong>Copy</strong> copies the password to clipboard<br/> You can change the length of the password by clicking on the up and down arrow beside the number .  
