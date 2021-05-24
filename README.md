@@ -7,5 +7,4 @@ One special character<br/>
 Three python libraries were used<br/>
 1. Tkinter for the GUI<br/>
 2. Random to make the password random<br/>
-3. String for string manipulation<br/>
-Attached is the images of the application.
+3. String for string manipulation<br/>Attached is the files of  the images of the application.
