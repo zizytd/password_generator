@@ -3,7 +3,7 @@ This desktop app is a password generator which the length of the password can be
 One uppercase letter<br/>
 One lowercase letter<br/>
 One digit<br/>
-One special character<br/>
+One special character<br/><br/>
 Three python libraries were used
 <ol>
 <li>Tkinter for the GUI</li>
