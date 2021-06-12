@@ -4,7 +4,9 @@
 ![Platform](https://img.shields.io/badge/python-3.7-blue.svg)
 
 This desktop app is a password generator which the length of the password can be between length 6 and 14.
+
 ![](images/pass01.png)
+
 ![](images/pass02.png)
 
 ## Installation
