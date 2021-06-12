@@ -15,8 +15,4 @@ This desktop app is a password generator which the length of the password can be
 python3 main.py
 ```
 ## Usage
-The password must contain <br/>
-One uppercase letter<br/>
-One lowercase letter<br/>
-One digit<br/>
-One special character<br/><br/>
+After cloning this repository , Please run the <code>main.py</code> in the cloned password_generator directory
