@@ -13,10 +13,8 @@ This desktop app is a password generator which generates random passwords betwee
 <span style="color:green"><em>High</em></span>.</p>
 
 
-![](images/img01.png) 
-![](images/img02.png) 
-![](images/img03.png) 
-![](images/img04.png)
+![](images/img01.png) ![](images/img02.png) 
+![](images/img03.png) ![](images/img04.png)
 
 
 
