@@ -6,9 +6,9 @@
 
 This desktop app is a password generator which generates random passwords between the length of 6-18.</br>
 <p>If the length of the password is between 6-7, the password strength is 
-<mark class="red"><em>Low</em></mark>.</p>
+<span style="red"><em>Low</em></span>.</p>
 <p>If the length of the password is between 8-12, the password strength is 
-<span style="color:orange">Medium</span>.</p>
+<span style="color:orange"><em>Medium</em></span>.</p>
 <p>If the length of the password is between 13-18, the password strength is 
 <span style="color:green"><em>High</em></span>.</p>
 
